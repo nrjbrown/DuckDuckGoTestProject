@@ -1,5 +1,6 @@
 {
-    "buildCommand": "pnpm install && pnpm run build",
-    "installCommand": "pnpm install",
+    "buildCommand": "yarn install && yarn run build",
+    "installCommand": "yarn install",
     "framework": "nextjs"
   }
+  
