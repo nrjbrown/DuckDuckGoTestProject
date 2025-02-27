@@ -1,6 +1,4 @@
 {
-    "buildCommand": "yarn install && yarn run build",
-    "installCommand": "yarn install",
-    "framework": "nextjs"
+    "buildCommand": "echo 'registry=https://registry.npmjs.org/\nstrict-ssl=false' > .npmrc && npm install --registry=https://registry.npmjs.org --legacy-peer-deps && npm run build",
+    "installCommand": "echo 'registry=https://registry.npmjs.org/\nstrict-ssl=false' > .npmrc && npm install --registry=https://registry.npmjs.org --legacy-peer-deps"
   }
-  
