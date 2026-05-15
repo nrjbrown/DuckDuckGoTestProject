@@ -34,11 +34,11 @@ This project was built using a modern tech stack focused on responsiveness, perf
 ---
 
 ## 👨‍💻 About the Author
-Neville Brown is a **Senior Business Operations Manager** and **Full-Stack MERN Developer** with over a decade of experience in HR operations, process transformation, and strategic planning. Having held senior roles at companies like **Microsoft** and major tech leaders in the AI space, Neville specializes in transforming innovative ideas into reality through design thinking and human-centered perspectives.
+Neville Brown is a **Country Process Owner** and **Full-Stack MERN Developer** with over a decade of experience in HR operations, process transformation, and strategic planning. Having held senior roles at companies like **Google**,**Microsoft** and major tech leaders in the AI space, Neville specializes in transforming innovative ideas into reality through design thinking and human-centered perspectives.
 
 ---
 
 ## 📬 Contact Information
 *   **Phone:** [437-213-6179](tel:437-213-6179)
 *   **Email:** [nevthedeveloper@gmail.com](mailto:nevthedeveloper@gmail.com)
-*   **LinkedIn:** [nrjbrown](https://www.linkedin.com/in/nrjbrown/)
+*   **LinkedIn:** [nrjbrown](https://www.linkedin.com/in/neville-brown-blockchain/)
